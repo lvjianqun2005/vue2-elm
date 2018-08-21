@@ -17,10 +17,14 @@
   	export default {
     	components:{
             svgIcon
+  
+
 
             
         },
   	}
+
+
 
 </script>
 
